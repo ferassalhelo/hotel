@@ -1,5 +1,5 @@
 var typed = new Typed("#text", {
-  strings: [`SKY DUBAI hotel`],
+  strings: [`SKY DUBAI HOTEL`],
   typeSpeed: 100,
   loop: true
 });
